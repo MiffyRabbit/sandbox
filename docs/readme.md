@@ -2,6 +2,8 @@
 
 これをひな形にして、マニュアル的なフォーマットで咲洲メガソーラーの問題をまとめて行きます
 
+[top](top.md)
+
 This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
 
 - [@primer/css](https://github.com/primer/css)
