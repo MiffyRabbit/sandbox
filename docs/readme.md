@@ -1,4 +1,4 @@
-# 咲洲メガソーラー問題2
+# 咲洲メガソーラー問題
 
 これをひな形にして、マニュアル的なフォーマットで咲洲メガソーラーの問題をまとめて行きます
 
@@ -31,7 +31,6 @@ Documentation that can guide how to create with Github pages, please refer to [r
 - SEO (404, robots.txt, sitemap.xml)
 - Canonical Link (Open Graph, Twitter Card, Schema data)
 
-{% include list.liquid all=true %}
 
 ## Options
 
@@ -97,6 +96,4 @@ plugins:
 ## The license
 
 The theme is available as open source under the terms of the MIT License  
-
-{% include list.liquid all=true %}
 
