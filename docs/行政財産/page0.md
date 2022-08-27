@@ -10,4 +10,4 @@ twitter 動画埋め込みテスト
 
 YouTube 動画埋め込みテスト  
 
-<iframe width="560" height="560" src="https://www.youtube.com/embed/gDLiaRJftO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="315" height="315" src="https://www.youtube.com/embed/gDLiaRJftO8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
