@@ -1,11 +1,6 @@
-# jekyll-rtd-theme
+# 咲洲メガソーラー問題
 
-![CI](https://github.com/rundocs/jekyll-rtd-theme/workflows/CI/badge.svg?branch=develop)
-![jsDelivr](https://data.jsdelivr.com/v1/package/gh/rundocs/jekyll-rtd-theme/badge)
-
-Just another documentation theme compatible with GitHub Pages
-
-## What it does?
+これをひな形にして、マニュアル的なフォーマットで咲洲メガソーラーの問題をまとめて行きます
 
 This theme is inspired by [sphinx-rtd-theme](https://github.com/readthedocs/sphinx_rtd_theme) and refactored with:
 
