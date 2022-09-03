@@ -1,7 +1,24 @@
-title: 咲洲メガソーラー問題
-description: Just another documentation theme compatible with GitHub Pages
+# title: jekyll-rtd-theme
+# description: Just another documentation theme compatible with GitHub Pages
 
+# theme: null
+
+lang: "ja"
+title: Matomeプラス
+description: twitterでのつぶやきを中心に色んな問題のまとめです
+url: "https://okmksato.github.io"
+og_url: "https://okmksato.github.io/matome"
 theme: null
+twitter:
+  card: summary_large_image
+
+previous: 前ページ
+next: 次ページ
+search_docs: 'サイト内検索...'
+
+search_results: '検索結果'
+search_results_found: '# ページ見つかりました'
+search_results_not_found: '一致するページは見つかりませんでした'
 
 # debug:
 #   compress: true
