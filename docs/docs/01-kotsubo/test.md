@@ -1,1 +1,1 @@
-<span style="color.red; ">赤文字</span>
+<span style="color:red;">赤文字</span>
