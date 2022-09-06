@@ -6,8 +6,8 @@
 lang: "ja"
 title: Matomeプラス
 description: twitterでのつぶやきを中心に色んな問題のまとめです
-url: "https://okmksato.github.io/matome"
-og_url: "https://okmksato.github.io/matome"
+url: "https://okmksato.github.io/sandbox"
+og_url: "https://okmksato.github.io/sandbox"
 theme: null
 twitter:
   card: summary_large_image
