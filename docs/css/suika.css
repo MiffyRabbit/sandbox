@@ -1,1 +1,37 @@
-h1{color:red;}
+@charset "UTF-8";
+
+/*---------- 見出し ----------*/
+
+h1{}
+h2{
+  color : #FFF;
+  background: #2980B9;
+  margin: 40px 0 25px 0; padding:10px;
+}
+h3{
+  color : #2980B9;
+  margin: 30px 0 20px 0;
+}
+
+/*---------- フォント ----------*/
+p{margin: 15px 0 15px 0;}
+
+/*---------- カラー ----------*/
+.red{color: #F00;}
+
+/*---------- アイコン＆ボックス ----------*/
+.icon-blue{
+  font-size: 0.85rem;
+  color: #FFF;
+  background: #2980B9;
+  border-radius: 15px;
+  margin-right: 5px;
+  padding: 6px 12px;
+}
+
+.box-gray{border: solid 1px #CCC; background: #F8F8F8; padding:0 20px;}
+.box-blue-border{border: solid 1px #2980B9; padding:0 20px;}
+
+
+/*---------- マージンn ----------*/
+.mt30{margin-top: 30px;}
