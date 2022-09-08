@@ -1,12 +1,15 @@
 @charset "UTF-8";
 
 /*---------- 見出し ----------*/
-
-h1{}
+h1{
+  border: none;
+  margin: 30px0 ;
+}
 h2{
   color : #FFF;
   background: #2980B9;
-  margin: 40px 0 25px 0; padding:10px;
+  margin: 40px 0 25px 0;
+  padding:10px;
 }
 h3{
   color : #2980B9;
@@ -29,8 +32,17 @@ p{margin: 15px 0 15px 0;}
   padding: 6px 12px;
 }
 
-.box-gray{border: solid 1px #CCC; background: #F8F8F8; padding:0 20px;}
-.box-blue-border{border: solid 1px #2980B9; padding:0 20px;}
+.box-gray{
+  border: solid 1px #CCC; 
+  background: #F8F8F8; 
+  padding:0 20px;
+}
+.box-blue-border{
+  border: solid 1px #2980B9;
+  padding:0 20px;
+}
+
+.twitter-tweet{margin: 35px 0;}
 
 
 /*---------- マージンn ----------*/
