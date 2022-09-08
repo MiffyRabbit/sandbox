@@ -22,8 +22,8 @@
 <span class="box-gray">これはテストです</span>  
 <span class="box-blue-bordery">これはテストです</span>  
 
-<p class="mt30">
+<h6 class="mt30">
 <span class="red icon-blue">これはテストです</span><br />  
 <span class="box-gray red">これはテストです</span><br />
 <span class="box-blue-bordery red">これはテストです</span>
-</p>
+</h6>
