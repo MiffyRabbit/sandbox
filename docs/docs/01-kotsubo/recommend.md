@@ -70,4 +70,5 @@ tw_image: images/recommend_ogp.png
   * <span class="red">自民党福岡県連の回答では、推薦・公認は一切していないとのこと。</span>  
   * 小坪議員の自民党への片想いラブストーリー。  
 
-物語は続く…    
+物語は続く…
+
