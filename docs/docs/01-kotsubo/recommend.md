@@ -15,9 +15,10 @@ tw_image: images/recommend_ogp.png
 </div>
 
 <a id="sec1"></a>
-## 1. 小坪議員によると「行橋支部による推薦」である (#sec1)  
+## 1. 小坪議員によると「行橋支部による推薦」である  
 ### 1-1. 小坪議員による言質  
-「小選挙区支部（および地域支部）の手続き」であり、選挙時はポスターなどにロゴを貼っていたそうです。  
+「小選挙区支部（および地域支部）の手続き」であり、選挙時はポスターなどにロゴを貼っていたそうです。
+
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja" data-theme="light"><p lang="ja" dir="ltr">ちなみに、私達の場合は、【自民福岡県連】の公認・推薦手続きではなく、小選挙区支部（および地域支部）の手続きになります。<br><br>仕組みをわかった上で、わざとデマ流してる？<br><br>ていうか、自民党ってロゴいれて普通にポスターとか貼って戦ったわけで、ネットでレッテル貼ってもリアルは変わらないのに。  &mdash; 小坪慎也🎌行橋市議（トレンド１位） (@kotsubo48) <a href="https://twitter.com/kotsubo48/status/1546019711452086272?ref_src=twsrc%5Etfw">2022年7月10日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">次に、推薦にもいくつかあり、県連推薦（この場合は福岡県連に掲載される）、政令市であれば市連がやる場合も。<br><br>私は、所属する福岡１１区支部の、さらに行橋支部で推薦を受け、推薦状を行橋支部長名で頂いています。<br>自民党の行橋支部のホームページはないため、ネットには掲載されないと思います。  &mdash; 小坪慎也🎌行橋市議（トレンド１位） (@kotsubo48) <a href="https://twitter.com/kotsubo48/status/1456432070901702657?ref_src=twsrc%5Etfw">2021年11月5日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>

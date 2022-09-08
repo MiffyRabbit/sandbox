@@ -6,6 +6,7 @@ h1{
   margin: 30px0 ;
 }
 h2{
+  font-size: 1.5rem;
   color : #FFF;
   background: #2980B9;
   margin: 40px 0 25px 0;
@@ -35,11 +36,11 @@ p{margin: 15px 0 15px 0;}
 .box-gray{
   border: solid 1px #CCC; 
   background: #F8F8F8; 
-  padding:0 20px;
+  padding:20px;
 }
 .box-blue-border{
   border: solid 1px #2980B9;
-  padding:0 20px;
+  padding:20px;
 }
 
 .twitter-tweet{margin: 35px 0;}
