@@ -21,8 +21,9 @@
 <span class="icon-blue">これはテストです</span>  
 <span class="box-gray">これはテストです</span>  
 <span class="box-blue-bordery">これはテストです</span>  
-<span class="box-blue-bordery mt30">これはテストです</span>  
-<span class="icon-blue red">これはテストです</span>  
+
+<div class="mt30">
+<span class="red icon-blue">これはテストです</span>  
 <span class="box-gray red">これはテストです</span>  
 <span class="box-blue-bordery red">これはテストです</span>  
-<span class="box-blue-bordery mt30 red">これはテストです</span>  
+</div>
