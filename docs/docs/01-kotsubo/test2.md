@@ -14,3 +14,16 @@
 これはテストです
 
 一行あけても改行できますが一行空きます
+
+## これはテストです  
+### これはテストです  
+<span class="red">これはテストです</span>  
+<span class="red icon-blue">これはテストです</span>  
+<span class="red box-gray">これはテストです</span>  
+<span class="box-blue-bordery">これはテストです</span>  
+
+<p class="mt30">
+<span class="icon-blue red">これはテストです</span><br />  
+<span class="box-gray red">これはテストです</span><br />
+<span class="box-blue-bordery red">これはテストです</span>
+</p>
