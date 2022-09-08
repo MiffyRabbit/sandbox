@@ -8,17 +8,10 @@ tw_image: images/recommend_ogp.png
 ![周防館](images/recommend_ogp.png)  
 この記事は下記構成となっております。  
 <div class="box-gray">
-<<<<<<< HEAD
   1. [小坪議員による支部による推薦発言と推薦状](#sec1)  
   2. [推薦状の比較](#sec2)  
   3. [矛盾点](#sec3)  
   4. [まとめ](#sec4)  
-=======
-  1. 小坪議員による支部による推薦発言と推薦状 (#sec1)  
-  2. 推薦状の比較 (#sec2)  
-  3. 矛盾点 (#sec3)  
-  4. まとめ (#sec4)  
->>>>>>> 5aa355b3fe223eaf749a78470b0cc478d65512ae
 </div>
 
 <a id="sec1"></a>
