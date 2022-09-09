@@ -1,24 +1,26 @@
 @charset "UTF-8";
 
-/*---------- 見出し ----------*/
+/*---------- フォント ----------*/
+.markdown-body{font-family: Verdana, sans-serif ;}
+
 .markdown-body h1{
   font-size: 1.5rem;
   border: none;
-  margin: 35px0 ;
+  margin: 35px 0 50px 0;
 }
-h2{
+.markdown-body h2{
   font-size: 1.25rem;
   color : #FFF;
   background: #2980B9;
   margin: 40px 0 25px 0;
   padding: 10px 15px 15px 15px;
 }
-h3{
+.markdown-body h3{
+  font-size: 1.1rem;
   color : #2980B9;
-  margin: 30px 0 20px 0;
+  margin: 40px 0 25px 0;
 }
 
-/*---------- フォント ----------*/
 p{margin: 15px 0 15px 0;}
 
 /*---------- カラー ----------*/
@@ -26,25 +28,27 @@ p{margin: 15px 0 15px 0;}
 
 /*---------- アイコン＆ボックス ----------*/
 .icon-blue{
-  font-size: 0.85rem;
+  font-size: 0.9rem;
   color: #FFF;
   background: #2980B9;
   border-radius: 15px;
   margin-right: 5px;
-  padding: 6px 12px;
+  padding: 8px 12px 6px 12px;
 }
 
 .box-gray{
   border: solid 1px #CCC; 
-  background: #F8F8F8; 
+  background: #F8F8F8;
+  margin: 35px 0;
   padding:20px;
 }
 .box-blue-border{
   border: solid 1px #2980B9;
+  margin: 35px 0;
   padding:20px;
 }
 
-.twitter-tweet{margin: 35px 0;}
+blockquote.twitter-tweet{margin: 25px 0;}
 
 
 /*---------- マージンn ----------*/
