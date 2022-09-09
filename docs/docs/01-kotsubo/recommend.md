@@ -38,7 +38,7 @@ tw_image: images/recommend_ogp.png
 ### 2-1. 正式な自民党推薦状です  
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="qme" dir="ltr"> <a href="https://t.co/2BhtyT3uXk">pic.twitter.com/2BhtyT3uXk</a>  &mdash; 田中がく@前貝塚市議会議員 (@tanakagaku_net) <a href="https://twitter.com/tanakagaku_net/status/1564927987174088704?ref_src=twsrc%5Etfw">2022年8月31日</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">自民党の正式な推薦は「推薦証」ですね。 <a href="https://t.co/LmgUD7VnfU">https://t.co/LmgUD7VnfU</a> <a href="https://t.co/mbSp6FHP0p">pic.twitter.com/mbSp6FHP0p</a>  &mdash; 新党ももくり (@momokuri3jiji) <a href="https://twitter.com/momokuri3jiji/status/1564558280160346113?ref_src=twsrc%5Etfw">2022年8月30日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">自民党の正式な推薦は「推薦証」ですね。 <a href="https://t.co/LmgUD7VnfU">https://t.co/LmgUD7VnfU</a> <a href="https://t.co/mbSp6FHP0p">pic.twitter.com/mbSp6FHP0p</a>  &mdash; 新党ももくり (@momokuri3jiji) <a href="https://twitter.com/momokuri3jiji/status/1564558280160346113?ref_src=twsrc%5Etfw">2022年8月30日</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2-2. ツイッターでの数々の指摘  
 <div class="box-blue-border">
