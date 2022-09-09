@@ -6,12 +6,13 @@ tw_image: images/recommend_ogp.png
 ---
 # 行橋市議議員小坪慎也氏「自民党推薦」は自称？についてのまとめ  
 ![周防館](images/recommend_ogp.png)  
+
 この記事は下記構成となっております。  
 <div class="box-gray">
-1. [小坪議員による支部による推薦発言と推薦状](#sec1)  
-2. [推薦状の比較](#sec2)  
-3. [矛盾点](#sec3)  
-4. [まとめ](#sec4)  
+  1. 小坪議員による支部による推薦発言と推薦状  
+  2. 推薦状の比較  
+  3. 矛盾点  
+  4. まとめ  
 </div>
 
 <a id="sec1"></a>
@@ -19,9 +20,9 @@ tw_image: images/recommend_ogp.png
 ### 1-1. 小坪議員による言質  
 「小選挙区支部（および地域支部）の手続き」であり、選挙時はポスターなどにロゴを貼っていたそうです。
 
-<blockquote class="twitter-tweet"><p dir="ltr" lang="ja">ちなみに、私達の場合は、【自民福岡県連】の公認・推薦手続きではなく、小選挙区支部（および地域支部）の手続きになります。<br><br>仕組みをわかった上で、わざとデマ流してる？<br><br>ていうか、自民党ってロゴいれて普通にポスターとか貼って戦ったわけで、ネットでレッテル貼ってもリアルは変わらないのに。  &mdash; 小坪慎也🎌行橋市議（トレンド１位） (@kotsubo48) <a href="https://twitter.com/kotsubo48/status/1546019711452086272?ref_src=twsrc%5Etfw">2022年7月10日</a></blockquote> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
+<blockquote class="twitter-tweet"><p dir="ltr" lang="ja">ちなみに、私達の場合は、【自民福岡県連】の公認・推薦手続きではなく、小選挙区支部（および地域支部）の手続きになります。<br><br>仕組みをわかった上で、わざとデマ流してる？<br><br>ていうか、自民党ってロゴいれて普通にポスターとか貼って戦ったわけで、ネットでレッテル貼ってもリアルは変わらないのに。  &mdash; 小坪慎也🎌行橋市議（トレンド１位） (@kotsubo48) </p><a href="https://twitter.com/kotsubo48/status/1546019711452086272?ref_src=twsrc%5Etfw">2022年7月10日</a></blockquote> <script async="" charset="utf-8" src="https://platform.twitter.com/widgets.js"></script>
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">次に、推薦にもいくつかあり、県連推薦（この場合は福岡県連に掲載される）、政令市であれば市連がやる場合も。<br><br>私は、所属する福岡１１区支部の、さらに行橋支部で推薦を受け、推薦状を行橋支部長名で頂いています。<br>自民党の行橋支部のホームページはないため、ネットには掲載されないと思います。  &mdash; 小坪慎也🎌行橋市議（トレンド１位） (@kotsubo48) <a href="https://twitter.com/kotsubo48/status/1456432070901702657?ref_src=twsrc%5Etfw">2021年11月5日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">次に、推薦にもいくつかあり、県連推薦（この場合は福岡県連に掲載される）、政令市であれば市連がやる場合も。<br><br>私は、所属する福岡１１区支部の、さらに行橋支部で推薦を受け、推薦状を行橋支部長名で頂いています。<br>自民党の行橋支部のホームページはないため、ネットには掲載されないと思います。  &mdash; 小坪慎也🎌行橋市議（トレンド１位） (@kotsubo48) </p><a href="https://twitter.com/kotsubo48/status/1456432070901702657?ref_src=twsrc%5Etfw">2021年11月5日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 1-2. 小坪議員の推薦状の画像  
 <img src="images/recommend_01.png" alt="推薦状" width="550" height="339">
@@ -34,7 +35,7 @@ tw_image: images/recommend_ogp.png
 <a id="sec2"></a>
 ## 2. 小坪議員が欲しい自民党推薦状ってどんなの？  
 ### 2-1. 正式な自民党推薦状です  
-<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="qme" dir="ltr"> <a href="https://t.co/2BhtyT3uXk">pic.twitter.com/2BhtyT3uXk</a>  &mdash; 田中がく@前貝塚市議会議員 (@tanakagaku_net) <a href="https://twitter.com/tanakagaku_net/status/1564927987174088704?ref_src=twsrc%5Etfw">2022年8月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
+<blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="qme" dir="ltr"> <a href="https://t.co/2BhtyT3uXk">pic.twitter.com/2BhtyT3uXk</a>  &mdash; 田中がく@前貝塚市議会議員 (@tanakagaku_net) <a href="https://twitter.com/tanakagaku_net/status/1564927987174088704?ref_src=twsrc%5Etfw">2022年8月31日</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">自民党の正式な推薦は「推薦証」ですね。 <a href="https://t.co/LmgUD7VnfU">https://t.co/LmgUD7VnfU</a> <a href="https://t.co/mbSp6FHP0p">pic.twitter.com/mbSp6FHP0p</a>  &mdash; 新党ももくり (@momokuri3jiji) <a href="https://twitter.com/momokuri3jiji/status/1564558280160346113?ref_src=twsrc%5Etfw">2022年8月30日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
