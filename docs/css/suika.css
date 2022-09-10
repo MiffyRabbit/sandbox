@@ -24,9 +24,8 @@ p{margin: 15px 0 15px 0;}
 
 /*---------- マージンn ----------*/
 .mt15{margin-top: 15px !important;}
+.mt20{margin-top: 20px !important;}
 .mt30{margin-top: 30px !important;}
-
-
 
 /*---------- リスト ----------*/
 .markdown-body ol{
@@ -36,6 +35,7 @@ p{margin: 15px 0 15px 0;}
   padding:20px;
 }
 .markdown-body ol li{margin-left: 20px;}
+.markdown-body ul{margin: 25px 0;}
 
 /*---------- アイコン＆ボックス ----------*/
 .icon-blue{
@@ -85,7 +85,7 @@ p{margin: 15px 0 15px 0;}
 }
 .main-title .main-image{
   z-index: 1;
-  top: -100px;
+  top: 0;
   position: absolute;
 }
 

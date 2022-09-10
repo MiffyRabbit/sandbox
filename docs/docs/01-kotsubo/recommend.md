@@ -73,8 +73,6 @@ tw_image: images/recommend_ogp.png
   * <span class="red">自民党福岡県連の回答では、推薦・公認は一切していないとのこと。</span>  
   * 小坪議員の自民党への片想いラブストーリー。  
   * 講座修了証すらわざわざブログに掲載しているのに、何でも載せたガル推薦状はなぜアップしていないのか？  
-  <img src="images/recommend_01.png" alt="修了証" width="550" height="" class="mt15">
-
-
-物語は続く…
-
+  <img src="images/recommend_02.png" alt="修了証" width="550" height="" class="mt20">  
+  
+因みに、<span class="red">議員の手腕が買われると自民党側からスカウト</span>されるみたいです。猛烈アプローチしなくても。
