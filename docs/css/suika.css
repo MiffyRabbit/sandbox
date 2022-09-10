@@ -15,7 +15,7 @@
   color : #2980B9;
   margin: 40px 0 25px 0;
 }
-.markdown-body h2 + .markdown-body h3{margin-bottom: 20px;}
+.markdown-body h2 + h3{margin-top: 20px;}
 
 p{margin: 15px 0 15px 0;}
 
@@ -31,7 +31,7 @@ p{margin: 15px 0 15px 0;}
 .markdown-body ol{
   border: solid 1px #CCC; 
   background: #F8F8F8;
-  margin: 25px 0;
+  margin: 25px 0 30px 0;
   padding:20px;
 }
 .markdown-body ol li{margin-left: 20px;}
@@ -44,12 +44,12 @@ p{margin: 15px 0 15px 0;}
   background: #2980B9;
   border-radius: 15px;
   margin-right: 5px;
-  padding: 7px 12px 6px 12px;
+  padding: 6px 14px;
 }
 
 .box-blue-border{
   border: solid 1px #2980B9;
-  margin: 25px 0 25px 20px;
+  margin: 25px 0 25px 0;
   padding:20px;
 }
 
@@ -65,27 +65,31 @@ p{margin: 15px 0 15px 0;}
   z-index: 2;
   position: relative;
   top: 60px;
-  left: 360px;
+  left: 60px;
   margin-right: 70px;
   }
 .markdown-body .main-title h1{
-  width: 500px;
+  width: 95%;
   font-size: 2.2rem;
   color: #FFF;
   border-bottom: none;
   }
 .main-text p{
+  position: absolute;
+  right: 20px;
   font-size: 1.6rem;
   font-weight: bold;
   text-align: center;
   color: #2980B9;
   background: #FFF;
   display: inline;
-  padding: 5px 20px;
+  padding: 6px 20px;
 }
 .main-title .main-image{
   z-index: 1;
   top: 0;
   position: absolute;
 }
+
+p + twitter-tweet{margin-bottom: 25px;}
 
