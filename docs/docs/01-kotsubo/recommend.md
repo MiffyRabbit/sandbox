@@ -44,11 +44,13 @@ tw_image: images/recommend_ogp.png
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">自民党の正式な推薦は「推薦証」ですね。 <a href="https://t.co/LmgUD7VnfU">https://t.co/LmgUD7VnfU</a> <a href="https://t.co/mbSp6FHP0p">pic.twitter.com/mbSp6FHP0p</a>  &mdash; 新党ももくり (@momokuri3jiji) <a href="https://twitter.com/momokuri3jiji/status/1564558280160346113?ref_src=twsrc%5Etfw">2022年8月30日</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-### 2-2. ツイッターでの数々の指摘  
+### 2-2. ツイッターでの数々の指摘
+<div class="box-blue-border">
   * 行橋支部の橋本さんの<strong>個人推薦</strong>でしょ。  
   * 支部の推薦なら、なぜ「支部長」の肩書きが無いのかなと。🤔 こういう推薦状とかは、肩書きや役職って重要じゃないんですかね？  
   * 自民党の正式な推薦証には、中央に菊のエンブレムと落款は2ケ所あり。  
   * 講座修了証をわざわざブログ掲載してるのに、推薦状は載ってないんですね。何でだろう？
+</div>
 
 <a id="sec3"></a>
 ## 3. その他の矛盾  
