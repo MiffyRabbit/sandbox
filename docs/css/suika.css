@@ -23,6 +23,10 @@ p{margin: 15px 0 15px 0;}
 /*---------- カラー ----------*/
 .red{color: #F00;}
 
+/*---------- マージンn ----------*/
+.mt15{margin-top: 15px !important;}
+.mt30{margin-top: 30px !important;}
+
 /*---------- ページタイトル ----------*/
 .main-title{
   height: 346px;
@@ -82,5 +86,4 @@ p{margin: 15px 0 15px 0;}
 .markdown-body .twitter-tweet{margin: 25px 0;}
 
 
-/*---------- マージンn ----------*/
-.mt30{margin-top: 30px;}
+
