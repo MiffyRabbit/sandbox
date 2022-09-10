@@ -58,15 +58,12 @@ p{margin: 15px 0 15px 0;}
   min-height: 350px;
   position: relative;
   top: 0;
-  background: url("docs/01-kotsubo/images/title_bg.png") #1D9BF0 no-repeat left bottom;
+  background: url("../docs/01-kotsubo/images/title_bg.png") #1D9BF0 no-repeat left bottom;
+  background-size: 310px;
   margin-bottom: 60px;
   }
 .main-text{
-  z-index: 2;
-  position: relative;
-  top: 60px;
-  left: 300px;
-  margin-right: 5%;
+  margin: 0 5% 0 340px;
   }
 .markdown-body .main-title h1{
   width: 60%;
@@ -96,7 +93,10 @@ p + twitter-tweet{margin-top: 25px;}
 
 /*-------------------------スマホ-------------------------*/
 @media screen and (max-width:767px){
-  .markdown-body .main-title{height: auto;}
+  .markdown-body .main-title{
+    height: auto;
+      background-size: 250px;
+  }
   .markdown-body .main-title img{width: 60%;}
   
   .markdown-body .main-title h1{
