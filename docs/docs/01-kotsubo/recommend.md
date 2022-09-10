@@ -9,7 +9,6 @@ tw_image: images/recommend_ogp.png
 <h1>行橋市議議員小坪慎也氏「自民党推薦」は自称？についてのまとめ</h1>
 <p class="sub-titile">推薦状編</p>
 </div>
-<img src="images/title_bg.png" class="main-image">
 </div>
 
 この記事は下記構成となっております。
