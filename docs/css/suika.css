@@ -3,7 +3,6 @@
 /*---------- フォント ----------*/
 .markdown-body{font-family: Verdana, sans-serif ;}
 
-
 .markdown-body h2{
   font-size: 1.2rem;
   color : #FFF;
@@ -27,39 +26,16 @@ p{margin: 15px 0 15px 0;}
 .mt15{margin-top: 15px !important;}
 .mt30{margin-top: 30px !important;}
 
-/*---------- ページタイトル ----------*/
-.main-title{
-  height: 346px;
-  background: #1D9BF0;
-  }
-.main-text{
-  z-index: 2;
-  position: absolute;
-  top: 60px;
-  left: 360px;
-  margin-right: 70px;
-  }
-.markdown-body .main-title h1{
-  font-size: 2.2rem;
-  color: #FFF;
-  }
-.main-text p{
-  font-size: 1.6rem;
-  font-weight: bold;
-  text-align: center;
-  color: #2980B9;
-  background: #FFF;
-  display: inline;
-  right: 0;
-  position: absolute;
-  padding: 5px 15px;
+
+
+/*---------- リスト ----------*/
+.markdown-body ol{
+  border: solid 1px #CCC; 
+  background: #F8F8F8;
+  margin: 25px 0;
+  padding:20px;
 }
-.main-title .main-image{
-  z-index: 1;
-  top: 0px;
-  position: absolute;
-  margin-top: 35px;
-}
+.markdown-body ol li{margin-left: 20px;}
 
 /*---------- アイコン＆ボックス ----------*/
 .icon-blue{
@@ -68,22 +44,48 @@ p{margin: 15px 0 15px 0;}
   background: #2980B9;
   border-radius: 15px;
   margin-right: 5px;
-  padding: 8px 12px 6px 12px;
+  padding: 7px 12px 6px 12px;
 }
 
-.markdown-body ol{
-  border: solid 1px #CCC; 
-  background: #F8F8F8;
-  margin: 35px 0;
-  padding:20px;
-}
 .box-blue-border{
   border: solid 1px #2980B9;
   margin: 25px 0 25px 20px;
   padding:20px;
 }
 
-.markdown-body .twitter-tweet{margin: 25px 0;}
-
-
+/*---------- ページタイトル ----------*/
+.main-title{
+  min-height: 350px;
+  position: relative;
+  top: 0;
+  background: #1D9BF0;
+  margin-bottom: 60px;
+  }
+.main-text{
+  z-index: 2;
+  position: relative;
+  top: 60px;
+  left: 360px;
+  margin-right: 70px;
+  }
+.markdown-body .main-title h1{
+  width: 500px;
+  font-size: 2.2rem;
+  color: #FFF;
+  border-bottom: none;
+  }
+.main-text p{
+  font-size: 1.6rem;
+  font-weight: bold;
+  text-align: center;
+  color: #2980B9;
+  background: #FFF;
+  display: inline;
+  padding: 5px 20px;
+}
+.main-title .main-image{
+  z-index: 1;
+  top: -100px;
+  position: absolute;
+}
 
