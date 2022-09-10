@@ -3,11 +3,7 @@
 /*---------- フォント ----------*/
 .markdown-body{font-family: Verdana, sans-serif ;}
 
-.markdown-body h1{
-  font-size: 1.5rem;
-  border: none;
-  margin: 35px 0 50px 0;
-}
+
 .markdown-body h2{
   font-size: 1.2rem;
   color : #FFF;
@@ -30,7 +26,6 @@ p{margin: 15px 0 15px 0;}
 /*---------- ページタイトル ----------*/
 .main-title{
   height: 346px;
-  border: solid 1px;
   background: #1D9BF0;
   }
 .main-text{
@@ -39,9 +34,8 @@ p{margin: 15px 0 15px 0;}
   top: 60px;
   left: 360px;
   margin-right: 70px;
-  border: solid 1px;
   }
-.main-title h1{
+.markdown-body .main-title h1{
   font-size: 2.2rem;
   color: #FFF;
   }
@@ -73,19 +67,19 @@ p{margin: 15px 0 15px 0;}
   padding: 8px 12px 6px 12px;
 }
 
-.box-gray{
+.markdown-body ol{
   border: solid 1px #CCC; 
   background: #F8F8F8;
   margin: 35px 0;
   padding:20px;
 }
-.box-blue-border{
+.markdown-body ul{
   border: solid 1px #2980B9;
   margin: 35px 0;
   padding:20px;
 }
 
-blockquote.twitter-tweet{margin: 25px 0;}
+.markdown-body .twitter-tweet{margin: 25px 0;}
 
 
 /*---------- マージンn ----------*/

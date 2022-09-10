@@ -6,23 +6,19 @@ tw_image: images/recommend_ogp.png
 ---
 <div class="main-title">
 <div class="main-text">
-
-# 行橋市議議員小坪慎也氏「自民党推薦」は自称？についてのまとめ 
-
+<h1>行橋市議議員小坪慎也氏「自民党推薦」は自称？についてのまとめ</h1>
 <p class="sub-titile">推薦状編</p>
 </div>
-![小坪慎也議員](images/title_bg.png)  
+<img src="images/title_bg.png" class="main-image">
 </div>
 </div>
-
 
 この記事は下記構成となっております。  
-<div class="box-gray">
+
   1. 小坪議員による支部による推薦発言と推薦状  
   2. 推薦状の比較  
   3. 矛盾点  
   4. まとめ  
-</div>
 
 <a id="sec1"></a>
 ## 1. 小坪議員によると「行橋支部による推薦」である  
@@ -36,9 +32,9 @@ tw_image: images/recommend_ogp.png
 ### 1-2. 小坪議員の推薦状の画像  
 <img src="images/recommend_01.png" alt="推薦状" width="550" height="">
 <div class="box-blue-border">  
-<span class="icon-blue">疑問点</span>  
-「貴殿」「行橋市議会」の途中で改行が入っていて不自然。書状作成する業者は必ず綺麗なところで改行するもの。  
-署名も筆ぺんで書かれており、落款の位置も雑ですね。
+<p><span class="icon-blue">疑問点</span><br>
+「貴殿」「行橋市議会」の途中で改行が入っていて不自然。書状作成する業者は必ず綺麗なところで改行するもの。<br>
+署名も筆ぺんで書かれており、落款の位置も雑ですね。</p>
 </div>
 
 <a id="sec2"></a>
@@ -49,12 +45,10 @@ tw_image: images/recommend_ogp.png
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">自民党の正式な推薦は「推薦証」ですね。 <a href="https://t.co/LmgUD7VnfU">https://t.co/LmgUD7VnfU</a> <a href="https://t.co/mbSp6FHP0p">pic.twitter.com/mbSp6FHP0p</a>  &mdash; 新党ももくり (@momokuri3jiji) <a href="https://twitter.com/momokuri3jiji/status/1564558280160346113?ref_src=twsrc%5Etfw">2022年8月30日</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2-2. ツイッターでの数々の指摘  
-<div class="box-blue-border">
   * 行橋支部の橋本さんの<strong>個人推薦</strong>でしょ。  
   * 支部の推薦なら、なぜ「支部長」の肩書きが無いのかなと。🤔 こういう推薦状とかは、肩書きや役職って重要じゃないんですかね？  
   * 自民党の正式な推薦証には、中央に菊のエンブレムと落款は2ケ所あり。  
   * 講座修了証をわざわざブログ掲載してるのに、推薦状は載ってないんですね。何でだろう？
-</div>
 
 <a id="sec3"></a>
 ## 3. その他の矛盾  
@@ -80,7 +74,9 @@ tw_image: images/recommend_ogp.png
   - 自民党所属議員ではなく、自民党一般党員（党費4,000円支払うとなれる）の議員である。  
   - <span class="red">自民党福岡県連の回答では、推薦・公認は一切していないとのこと。</span>  
   - 小坪議員の自民党への片想いラブストーリー。  
-  - 講座修了証すらわざわざブログに掲載しているのに、何でも載せたガル推薦状はなぜアップしていないのか？  <img src="images/recommend_01.png" alt="修了証" width="550" height="">
+  - 講座修了証すらわざわざブログに掲載しているのに、何でも載せたガル推薦状はなぜアップしていないのか？
+  
+  <img src="images/recommend_01.png" alt="修了証" width="550" height="">
 
 物語は続く…
 
