@@ -4,8 +4,16 @@ sort:
 tw_site:
 tw_image: images/recommend_ogp.png  
 ---
-# 行橋市議議員小坪慎也氏「自民党推薦」は自称？についてのまとめ  
-![周防館](images/recommend_ogp.png)  
+<div class="main-title">
+<div class="main-text">
+
+# 行橋市議議員小坪慎也氏「自民党推薦」は自称？についてのまとめ 
+
+<p class="sub-titile">推薦状編</p>
+</div>
+![小坪慎也議員](images/title_bg.png)  
+</div>
+</div>
 
 
 この記事は下記構成となっております。  
