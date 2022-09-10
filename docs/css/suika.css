@@ -55,51 +55,60 @@ p{margin: 15px 0 15px 0;}
 
 /*---------- ページタイトル ----------*/
 .main-title{
-  min-height: 350px;
   position: relative;
   top: 0;
   background: url("../docs/01-kotsubo/images/title_bg.png") #1D9BF0 no-repeat left bottom;
-  background-size: 95%;
+  background-size: 310px;
   margin-bottom: 60px;
   }
 .main-text{
   margin: 0 5% 0 340px;
+  padding-top: 40px;
   }
 .markdown-body .main-title h1{
-  width: 60%;
   font-size: 2.3rem;
   color: #FFF;
   border-bottom: none;
+  margin-bottom: 35px;
   }
 .main-text .sub-titile{
   font-size: 1.6rem;
-  font-weight: bold;
-  text-align: center;
   color: #2980B9;
   background: #FFF;
   display: inline;
   padding: 7px 20px;
-}
-.main-title .main-image{
-  z-index: 1;
-  top: 0;
-  position: absolute;
 }
 
 p + twitter-tweet{margin-top: 25px;}
 
 .navigation-bottom{margin-top: 50px;}
 
-
-/*-------------------------スマホ-------------------------*/
-@media screen and (max-width:767px){
-  .markdown-body .main-title{
-    height: auto;
-      background-size: 250px;
-  }
-  .markdown-body .main-title img{width: 60%;}
+/*-------------------------PC-------------------------*/
+@media screen and (min-width:766px){
   
-  .markdown-body .main-title h1{
-    width: 95%;
-    font-size: 1.8rem;}
+  .main-title{height: 350px;}
+  
+} /* PC閉じ */
+
+/*-------------------------SP-------------------------*/
+@media screen and (max-width:767px){
+  
+  .main-title{
+    min-height: 200px;
+    background-size: 190px;
+    padding-bottom: 20px;
   }
+  .main-text{
+    margin: 20px 4% 0 210px;
+    padding-top: 20px;
+  }
+  .markdown-body .main-title h1{
+    font-size: 1.5rem;
+    margin-bottom: 30px;
+  }
+  .main-text .sub-titile{
+    font-size: 1.1rem;
+    padding: 6px 15px;
+    }
+  
+} /* SP閉じ */
