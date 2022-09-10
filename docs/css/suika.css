@@ -34,7 +34,7 @@ p{margin: 15px 0 15px 0;}
   margin: 25px 0 30px 0;
   padding:20px;
 }
-.markdown-body ol li{margin-left: 20px;}
+.markdown-body ol li{margin-left: 25px;}
 .markdown-body ul{margin: 25px 0;}
 
 /*---------- アイコン＆ボックス ----------*/
@@ -70,13 +70,12 @@ p{margin: 15px 0 15px 0;}
   }
 .markdown-body .main-title h1{
   width: 95%;
-  font-size: 2.2rem;
-  color: #FFF;
+  font-size: 2.3rem;
   border-bottom: none;
   }
 .main-text p{
   position: absolute;
-  right: 20px;
+  right: 50px;
   font-size: 1.6rem;
   font-weight: bold;
   text-align: center;
@@ -91,5 +90,17 @@ p{margin: 15px 0 15px 0;}
   position: absolute;
 }
 
-p + twitter-tweet{margin-bottom: 25px;}
+p + twitter-tweet{margin-top: 25px;}
 
+.navigation-bottom{margin-top: 50px;}
+
+
+/*-------------------------スマホ-------------------------*/
+@media screen and (max-width:767px){
+  .markdown-body .main-title{height: auto;}
+  .markdown-body .main-title img{width: 60%;}
+  
+  .markdown-body .main-title h1{
+    width: 95%;
+    font-size: 1.8rem;}
+  }

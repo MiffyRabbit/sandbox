@@ -16,7 +16,7 @@ tw_image: images/recommend_ogp.png
 
   1. [小坪議員による支部による推薦発言と推薦状](#sec1)  
   2. [小坪議員が欲しい自民党推薦状ってどんなの？](#sec2)  
-  3. [矛盾点](#sec3)  
+  3. [矛盾・指摘など](#sec3)  
   4. [まとめ](#sec4)  
 
 <a id="sec1"></a>
@@ -50,7 +50,7 @@ tw_image: images/recommend_ogp.png
   * 講座修了証をわざわざブログ掲載してるのに、推薦状は載ってないんですね。何でだろう？
 
 <a id="sec3"></a>
-## 3. その他の矛盾  
+## 3. 矛盾・指摘など  
 ### 3-1. 福岡県議連への確認結果  
 小坪議員の発言「福岡県連では、市町村議会議員の推薦状は、無い」→　<strong class="red">実際はある</strong>  
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">田中先生その情報は嘘です。<br>こちらは福岡県議会議員で福岡県連幹事長を務めた樋口明さんのブログです。<br>2020年の宗像市議会議員選挙にあたり6名の候補者に党の正式な推薦状が交付されています。<br><br>小坪議員が自民党の事を何も知らないか嘘をついているかのどちらかですね。<a href="https://t.co/nDQ4uhkCVz">https://t.co/nDQ4uhkCVz</a> <a href="https://t.co/RyXV0DZF5D">pic.twitter.com/RyXV0DZF5D</a>  &mdash; もふもふ (@origin_0023) </p><a href="https://twitter.com/origin_0023/status/1565145687943442432?ref_src=twsrc%5Etfw">2022年9月1日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -76,6 +76,4 @@ tw_image: images/recommend_ogp.png
   * 講座修了証すらわざわざブログに掲載しているのに、推薦状はなぜアップしていないのか？  
   <img src="images/recommend_02.png" alt="修了証" width="550" height="" class="mt20">  
   
-因みに、<span class="red">議員の手腕が買われると自民党側からスカウト</span>されるみたいです。猛烈アプローチしなくても。
-<br>
-<br>
+**因みに、<span class="red">議員の手腕が買われると自民党側からスカウト</span>されるみたいです。猛烈アプローチしなくても。**
