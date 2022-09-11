@@ -22,6 +22,8 @@ p{margin: 15px 0 15px 0;}
 /*---------- カラー ----------*/
 .red{color: #F00;}
 
+.marker-yellow{background:linear-gradient(transparent 60%, #ff6 60%);}
+
 /*---------- マージンn ----------*/
 .mt15{margin-top: 15px !important;}
 .mt20{margin-top: 20px !important;}
@@ -55,10 +57,12 @@ p{margin: 15px 0 15px 0;}
 
 /*---------- ページタイトル ----------*/
 .main-title{
+  max-width: 918px;
   position: relative;
   top: 0;
   background: url("../docs/01-kotsubo/images/title_bg_pc.png") #1D9BF0 no-repeat left bottom;
-  margin-bottom: 60px;
+  background-size: contain;
+  margin: 15px 0 60px 0;
   }
 .main-text{
   margin: 0 5% 0 340px;
@@ -67,6 +71,7 @@ p{margin: 15px 0 15px 0;}
 .markdown-body .main-title h1{
   font-size: 2.3rem;
   color: #FFF;
+  line-height: 1.4;
   border-bottom: none;
   margin-bottom: 15px;
   }
@@ -83,22 +88,23 @@ p + twitter-tweet{margin-top: 25px;}
 .navigation-bottom{margin-top: 50px;}
 
 /*-------------------------PC-------------------------*/
-@media screen and (min-width:766px){
+@media screen and (min-width:1050px){
   
   .main-title{height: 350px;}
   
 } /* PC閉じ */
 
 /*-------------------------SP-------------------------*/
-@media screen and (max-width:767px){
+@media screen and (max-width:1049px){
   
   .main-title{
-    min-height: 200px;
+    min-height: 170px;
     background: url("../docs/01-kotsubo/images/title_bg_sp.png") #1D9BF0 no-repeat left bottom;
+    background-size: contain;
     padding-bottom: 10px;
   }
   .main-text{
-    margin: 20px 4% 0 195px;
+    margin: 20px 6% 0 6%;
     padding-top: 20px;
   }
   .markdown-body .main-title h1{
@@ -107,7 +113,6 @@ p + twitter-tweet{margin-top: 25px;}
   }
   .main-text .sub-titile{
     font-size: 1.1rem;
-
     margin-bottom: 20px;
     padding: 6px 15px;
     }

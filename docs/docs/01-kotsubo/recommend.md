@@ -1,13 +1,12 @@
 ---
-title: 小坪議員「自民党推薦」は自称！？
+title: 行橋市議小坪慎也議員まとめ「自民党推薦」は自称だった！
 sort: 
 tw_site:
 tw_image: images/recommend_ogp.png  
 ---
 <div class="main-title">
 <div class="main-text">
-<h1>行橋市議議員小坪慎也氏「自民党推薦」は自称？についてのまとめ</h1>
-<p class="sub-titile">推薦状編</p>
+<h1>小坪慎也氏（行橋市議）の「自民党推薦」は自称だった！</h1>
 </div>
 </div>
 
@@ -75,4 +74,4 @@ tw_image: images/recommend_ogp.png
   * 講座修了証すらわざわざブログに掲載しているのに、推薦状はなぜアップしていないのか？  
   <img src="images/recommend_02.png" alt="修了証" width="550" height="" class="mt20">  
   
-**因みに、<span class="red">議員の手腕が買われると自民党側からスカウト</span>されるみたいです。猛烈アプローチしなくても。**
+**<span class="marker-yellow">因みに、<span class="red">議員の手腕が買われると自民党側からスカウト</span>されるみたいです。猛烈アプローチしなくても。</span>**
