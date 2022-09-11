@@ -15,7 +15,7 @@
   color : #2980B9;
   margin: 40px 0 25px 0;
 }
-.markdown-body h2 + h3{margin-top: 20px;}
+.markdown-body h2 + h3{margin-top: 25px;}
 
 p{margin: 15px 0 15px 0;}
 
@@ -83,7 +83,7 @@ p{margin: 15px 0 15px 0;}
   padding: 7px 20px;
 }
 
-p + twitter-tweet{margin-top: 25px;}
+p + twitter-tweet{margin-bottom: 25px;}
 
 .navigation-bottom{margin-top: 50px;}
 

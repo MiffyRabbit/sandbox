@@ -12,13 +12,13 @@ tw_image: images/recommend_ogp.png
 
 この記事は下記構成となっております。
 
-  1. [小坪議員による支部による推薦発言と推薦状](#sec1)  
+  1. [小坪議員による「支部による推薦」発言と推薦状](#sec1)  
   2. [小坪議員が欲しい自民党推薦状ってどんなの？](#sec2)  
   3. [矛盾・指摘など](#sec3)  
   4. [まとめ](#sec4)  
 
 <a id="sec1"></a>
-## 1. 小坪議員によると「行橋支部による推薦」である  
+## 1. 小坪議員による「支部による推薦」発言と推薦状  
 ### 1-1. 小坪議員による言質  
 「小選挙区支部（および地域支部）の手続き」であり、選挙時はポスターなどにロゴを貼っていたそうです。
 
@@ -52,6 +52,9 @@ tw_image: images/recommend_ogp.png
 ### 3-1. 福岡県議連への確認結果  
 小坪議員の発言「福岡県連では、市町村議会議員の推薦状は、無い」→　<strong class="red">実際はある</strong>  
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">田中先生その情報は嘘です。<br>こちらは福岡県議会議員で福岡県連幹事長を務めた樋口明さんのブログです。<br>2020年の宗像市議会議員選挙にあたり6名の候補者に党の正式な推薦状が交付されています。<br><br>小坪議員が自民党の事を何も知らないか嘘をついているかのどちらかですね。<a href="https://t.co/nDQ4uhkCVz">https://t.co/nDQ4uhkCVz</a> <a href="https://t.co/RyXV0DZF5D">pic.twitter.com/RyXV0DZF5D</a>  &mdash; もふもふ (@origin_0023) </p><a href="https://twitter.com/origin_0023/status/1565145687943442432?ref_src=twsrc%5Etfw">2022年9月1日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">「自民党の推薦手続きを経た市議候補が出るのは、どうやら初めてのことだそうです。」<br>これは間違いですし、小堤議員の事を知らないはずがないと思うんですが。<br>2年前に補選で当選されてます。 <a href="https://t.co/nsQ0ck7cMf">pic.twitter.com/nsQ0ck7cMf</a></p>&mdash; 川十郎 (@take55furukabu) <a href="https://twitter.com/take55furukabu/status/1564864504856727552?ref_src=twsrc%5Etfw">2022年8月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">【新たな疑惑】小坪慎也（行橋）市議。推薦状を自作？小坪市議が北九州市議候補に出した推薦状と、自民党行橋支部長から貰った推薦状が酷似。 <a href="https://t.co/4ITxFN3Zdr">pic.twitter.com/4ITxFN3Zdr</a>  &mdash; 新党ももくり (@momokuri3jiji)</p><a href="https://twitter.com/momokuri3jiji/status/1565564343525076992?ref_src=twsrc%5Etfw">September 2, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 1-2. 福岡県議連に直接確認してみた  
