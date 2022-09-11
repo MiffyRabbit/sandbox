@@ -69,6 +69,7 @@ tw_image: images/recommend_ogp.png
 
 <blockquote class="twitter-tweet" data-lang="ja" style="margin-bottom:40px;"><p lang="ja" dir="ltr">大事な事は自民党議員を名乗るなら、その市町や市町議会において自民党議員としての仕事をきちんとしているか？<br>その職責を果たしているか？<br>という事も説明を受け、なるほどと思った次第です。<br><br>福岡県自民党政策集もございますし。<a href="https://t.co/woPVSstZyQ">https://t.co/woPVSstZyQ</a></p>&mdash; 川十郎 (@take55furukabu) <a href="https://twitter.com/take55furukabu/status/1564970807574401026?ref_src=twsrc%5Etfw">2022年8月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
+### 4-1. まとめ  
   * 小坪議員の推薦状は正式な様式と全く異なる（自作した推薦状に一般人である支部長サインをもらっただけ）。  
   * 自民党所属議員ではなく、自民党一般党員（党費4,000円支払うとなれる）の議員である。  
   * <span class="red">自民党福岡県連の回答では、推薦・公認は一切していないとのこと。</span>  
