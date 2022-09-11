@@ -28,6 +28,9 @@ tw_image: images/recommend_ogp.png
 
 ### 1-2. 小坪議員の推薦状の画像  
 <img src="images/recommend_01.png" alt="推薦状" width="550" height="">
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">自民党の正式な推薦は「推薦証」ですね。 <a href="https://t.co/LmgUD7VnfU">https://t.co/LmgUD7VnfU</a> <a href="https://t.co/mbSp6FHP0p">pic.twitter.com/mbSp6FHP0p</a>  &mdash; 新党ももくり (@momokuri3jiji) <a href="https://twitter.com/momokuri3jiji/status/1564558280160346113?ref_src=twsrc%5Etfw">2022年8月30日</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 <div class="box-blue-border">  
 <p><span class="icon-blue">疑問点</span></p>
 <p>「貴殿」「行橋市議会」の途中で改行が入っていて不自然。書状作成する業者は必ず綺麗なところで改行するもの。<br>
@@ -38,8 +41,6 @@ tw_image: images/recommend_ogp.png
 ## 2. 小坪議員が欲しい自民党推薦状ってどんなの？  
 ### 2-1. 正式な自民党推薦状です  
 <blockquote class="twitter-tweet" data-conversation="none" data-lang="ja"><p lang="qme" dir="ltr"> <a href="https://t.co/2BhtyT3uXk">pic.twitter.com/2BhtyT3uXk</a>  &mdash; 田中がく@前貝塚市議会議員 (@tanakagaku_net) <a href="https://twitter.com/tanakagaku_net/status/1564927987174088704?ref_src=twsrc%5Etfw">2022年8月31日</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>  
-
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">自民党の正式な推薦は「推薦証」ですね。 <a href="https://t.co/LmgUD7VnfU">https://t.co/LmgUD7VnfU</a> <a href="https://t.co/mbSp6FHP0p">pic.twitter.com/mbSp6FHP0p</a>  &mdash; 新党ももくり (@momokuri3jiji) <a href="https://twitter.com/momokuri3jiji/status/1564558280160346113?ref_src=twsrc%5Etfw">2022年8月30日</a></p></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ### 2-2. ツイッターでの数々の指摘
   * 行橋支部の橋本さんの<strong>個人推薦</strong>でしょ。  
@@ -60,16 +61,14 @@ tw_image: images/recommend_ogp.png
 
 <blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">小坪慎也市議は、自民党福岡県連や行橋市議会へ電話で確認したら自民党公認ではないとのこと。自分は自民党支持なので不快です。<br>返信ありがとうございます。<br>これからも応援してます。  &mdash; 宮本ワンコ (@PAWayEYtASp8tDx)</p><a href="https://twitter.com/PAWayEYtASp8tDx/status/1561115612247511040?ref_src=twsrc%5Etfw">2022年8月20日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-conversation="none"><p lang="ja" dir="ltr">小坪市議は自民党公認ではござません。<br>自民党福岡県連にも確認済みです。<br>単なる自民党に党費を4000円支払っている一般党員なだけです。  &mdash; 彩穂 (@2021Ayaho_St)</p><a href="https://twitter.com/2021Ayaho_St/status/1545939539919015937?ref_src=twsrc%5Etfw">2022年7月10日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <a id="sec4"></a>
 ## 4. まとめ  
-### 4-1.  推薦状についての実態  
+### 4-1.  推薦状についての実態は？  
 <blockquote class="twitter-tweet"><p lang="ja" dir="ltr">入党すれば、推薦公認関係なく自民党所属は名乗れると言うことを聞きました。<br>つまり、自民党所属→〇<br>自由民主党から推薦→×(自由民主党行橋支部から推薦)<br><br>こういうことかな？と思います。<br>つまり、自民党には所属しており行橋支部は推薦しているが、自民党の推薦候補者ではない。ですね！ <a href="https://t.co/OD76ytvUW5">pic.twitter.com/OD76ytvUW5</a></p>&mdash; もふもふ (@origin_0023) <a href="https://twitter.com/origin_0023/status/1565332732682866689?ref_src=twsrc%5Etfw">September 1, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">党の中の地域支部の推薦状は簡単に言えば老人会とか自治会の推薦状に近いそうです。<br>地域支部ごとに会議手法が違うのでどうやって推薦出してるかは知らない。<br>会議が年一回くらいしかない幽霊みたいな地域支部も全国にはある。行橋の事は知りません。だそうです。</p>&mdash; もふもふ (@origin_0023) <a href="https://twitter.com/origin_0023/status/1564961987972722688?ref_src=twsrc%5Etfw">2022年8月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">大事な事は自民党議員を名乗るなら、その市町や市町議会において自民党議員としての仕事をきちんとしているか？<br>その職責を果たしているか？<br>という事も説明を受け、なるほどと思った次第です。<br><br>福岡県自民党政策集もございますし。<a href="https://t.co/woPVSstZyQ">https://t.co/woPVSstZyQ</a></p>&mdash; 川十郎 (@take55furukabu) <a href="https://twitter.com/take55furukabu/status/1564970807574401026?ref_src=twsrc%5Etfw">2022年8月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+<blockquote class="twitter-tweet" data-lang="ja" style="margin-bottom:40px;"><p lang="ja" dir="ltr">大事な事は自民党議員を名乗るなら、その市町や市町議会において自民党議員としての仕事をきちんとしているか？<br>その職責を果たしているか？<br>という事も説明を受け、なるほどと思った次第です。<br><br>福岡県自民党政策集もございますし。<a href="https://t.co/woPVSstZyQ">https://t.co/woPVSstZyQ</a></p>&mdash; 川十郎 (@take55furukabu) <a href="https://twitter.com/take55furukabu/status/1564970807574401026?ref_src=twsrc%5Etfw">2022年8月31日</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
   * 小坪議員の推薦状は正式な様式と全く異なる（自作した推薦状に一般人である支部長サインをもらっただけ）。  
   * 自民党所属議員ではなく、自民党一般党員（党費4,000円支払うとなれる）の議員である。  
