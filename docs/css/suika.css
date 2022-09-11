@@ -65,7 +65,7 @@ p{margin: 15px 0 15px 0;}
   margin: 15px 0 60px 0;
   }
 .main-text{
-  margin: 0 5% 0 340px;
+  margin: 0 5% 0 300px;
   padding-top: 40px;
   }
 .markdown-body .main-title h1{
@@ -90,7 +90,7 @@ p + twitter-tweet{margin-top: 25px;}
 /*-------------------------PC-------------------------*/
 @media screen and (min-width:1050px){
   
-  .main-title{height: 350px;}
+  .main-title{height: 300px;}
   
 } /* PC閉じ */
 
@@ -101,14 +101,15 @@ p + twitter-tweet{margin-top: 25px;}
     min-height: 170px;
     background: url("../docs/01-kotsubo/images/title_bg_sp.png") #1D9BF0 no-repeat left bottom;
     background-size: contain;
+    margin-bottom: 35px;
     padding-bottom: 10px;
   }
   .main-text{
     margin: 20px 6% 0 6%;
-    padding-top: 20px;
+    padding-top: 15px;
   }
   .markdown-body .main-title h1{
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     margin-bottom: 10px;
   }
   .main-text .sub-titile{
